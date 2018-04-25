@@ -1,3 +1,3 @@
 # JAVA
 
-Proyectos y programas en lenguaje JAVA.
+Programas en lenguaje JAVA.
